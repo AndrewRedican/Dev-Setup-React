@@ -17,11 +17,12 @@ Quick cheat sheet to get started on web development
 5. **Time Management** [Everhour](https://chrome.google.com/webstore/detail/everhour-time-tracker/dnebklifojaaecmheejjopgjdljebpeo)
 
 **FIRST INSTRUCTIONS**
-0. Create Github account.
-1. Clone [React-Starter](https://github.com/AndrewRedican/React-Starter) from Github.
-2. Open Git Kraken, select project folder and initialize git.
-3. In Git Kraken, add remote repository.
-4. Open cmd prompt and follow set up instructions from [React-Starter](https://github.com/AndrewRedican/React-Starter) repository.
+1. Create Github account.
+2. Clone [React-Starter](https://github.com/AndrewRedican/React-Starter) from Github.
+3. Link Git Kraken to Github account
+4. In Git Kraken select project folder and initialize git.
+5. In Git Kraken add remote repository.
+6. Open cmd prompt and follow set up instructions from [React-Starter](https://github.com/AndrewRedican/React-Starter) repository.
 
 **LEARNING DEV WITH REACT STACK**
 1. https://www.udemy.com/react-redux/
