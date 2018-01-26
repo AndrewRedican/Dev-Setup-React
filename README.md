@@ -1,4 +1,4 @@
-### dev-setup
+### Dev-Setup-React
 Quick cheat sheet to get started on web development
 
 **INSTALL**
