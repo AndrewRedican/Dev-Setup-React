@@ -2,18 +2,14 @@
 Quick cheat sheet to get started on web development
 
 ### Desktop Tools
-1. 
-2. 
-3. 
-4. 
-5. 
-6.
-7. 
-8. 
+1. **Javascript:** [Node.js](https://nodejs.org/en/)
+2. **Editor:** [VsCode](https://code.visualstudio.com/)
+3. **Versioning System:** [Git](https://git-scm.com/downloads)
+4. **Versioning Tool:** [Git Kraken](https://www.gitkraken.com/)
 
 ### Browser Tools
-1. 
-2. 
-3.
-4.
-5.
+1. **Debugging** [React Developer Tools]()
+2. **Cross-Origin Request** [CORS Toggle]() 
+3. **Html Viewer** [Pesiticide]() 
+4. **Time Managerment** []()
+
