@@ -13,7 +13,7 @@ Quick cheat sheet to get started on web development
 1. **Debugging** [React Developer Tools]()
 2. **Cross-Origin Request** [CORS Toggle]() 
 3. **Html Viewer** [Pesiticide]() 
-4. **Time Managerment** []()
+4. **Time Management** []()
 
 **FIRST INSTRUCTIONS**
 0. Create Github account.
