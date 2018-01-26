@@ -10,10 +10,11 @@ Quick cheat sheet to get started on web development
 4. **Versioning Tool:** [Git Kraken](https://www.gitkraken.com/)
 
 **Browser Tools**
-1. **Debugging** [React Developer Tools]()
-2. **Cross-Origin Request** [CORS Toggle]() 
-3. **Html Viewer** [Pesiticide]() 
-4. **Time Management** []()
+1. **Debugging** [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+2. **Cross-Origin Request Enabler** [CORS Toggle](https://chrome.google.com/webstore/detail/cors-toggle/jioikioepegflmdnbocfhgmpmopmjkim) 
+3. **API Requests** [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+4. **Html Viewer** [Pesiticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) 
+5. **Time Management** [Everhour](https://chrome.google.com/webstore/detail/everhour-time-tracker/dnebklifojaaecmheejjopgjdljebpeo)
 
 **FIRST INSTRUCTIONS**
 0. Create Github account.
